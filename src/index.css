@@ -1,0 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=Archivo:100,200,300,regular,500,600,700,800,900,100);
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: black;
+  font-family: "Archivo";
+  color: white;
+  position: relative;
+  scroll-behavior: smooth;
+}
